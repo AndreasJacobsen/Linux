@@ -1,0 +1,2 @@
+# Linux
+Scripts and bashes
